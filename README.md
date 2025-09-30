@@ -11,7 +11,7 @@ Cada proyecto incluye su respectiva simulación en **Proteus 8**, lo que permite
 - **Microcontrolador:** PIC16F877A  
 - **IDE:** [MPLAB X IDE](https://www.microchip.com/en-us/tools-resources/develop/mplab-x-ide)  
 - **Compiladores:**  
-  - MPASM (para proyectos en ensamblador)  
+  - PIC-AS (para proyectos en ensamblador)  
   - XC8 (para proyectos en C)  
 - **Simulador:** [Proteus 8](https://www.labcenter.com/)
   
