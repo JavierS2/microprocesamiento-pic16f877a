@@ -22,7 +22,7 @@ Cada proyecto incluye su respectiva simulación en **Proteus 8**, lo que permite
 ### 1. Clonar el repositorio  
 Abre una terminal y escribe:  
 ```bash
-git clone https://github.com/tu-usuario/tu-repo.git
+git clone https://github.com/JavierS2/microprocesamiento-pic16f877a
 ```
 
 ### 2. Abrir el código en MPLAB X IDE  
